@@ -1,3 +1,0 @@
-python-mpv
-pillow
-yt-dlp
